@@ -17,4 +17,4 @@
 Aplicar minha experiência em análise financeira com soluções baseadas em dados para apoiar a tomada de decisões e gerar valor nas organizações.
 
 Vamos nos conectar!
-[LinkedIn](https://www.linkedin.com/in/thiago-rachello-77b7aa56/) | [Portfólio](.)
+[LinkedIn](https://www.linkedin.com/in/thiago-rachello-77b7aa56/) | [Portfólio](https://github.com/thiagomazza1830)
