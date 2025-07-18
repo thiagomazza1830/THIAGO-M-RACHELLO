@@ -2,7 +2,7 @@
 
 💼 Profissional com mais de 20 anos de experiência nas áreas de Finanças e Tesouraria  
 🔁 Em transição de carreira para a área de Dados  
-🎓 Graduando em Sistemas de Informação  
+🎓 Graduado em Gestão Financeira e Graduando em Sistemas de Informação  
 📚 Participante do Bootcamp de Análise de Dados | DIO + Randstad
 
 ## 💡 Habilidades em Desenvolvimento:
